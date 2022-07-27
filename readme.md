@@ -1,14 +1,16 @@
 ---
-ms.openlocfilehash: 8611d2cd2c3ec66eef09211be5451367dca20440
-ms.sourcegitcommit: 668426ecec2a7872a302f779461f6dd31fd2c4ae
+ms.openlocfilehash: 974e60c273db40bcb7dbad3e74ca9f2dc45425a2
+ms.sourcegitcommit: 7422ad6567fb2efb1a453053a6754631a0ff0d56
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "138419959"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "147369702"
 ---
 # <a name="dp-300-administering-relational-databases-on-microsoft-azure"></a>DP-300: Administering Relational Databases on Microsoft Azure
 
-이 레포지토리에는 Microsoft DP-300의 강사 진행 교육용 랩 연습에 사용되는 지침, 스크립트 파일 및 이미지가 포함되어 있습니다. 
+이 리포지토리는 서비스 해제되었으며 사용되지 않습니다.
+
+Microsoft DP-300 학습 콘텐츠에 대한 랩 연습 및 지침에 액세스하려면 [DP-300: Microsoft Azure SQL 솔루션 관리](https://github.com/MicrosoftLearning/dp-300-database-administrator)를 참조하세요. 
 
 해당 교육에서는 다음과 같은 여러 랩을 진행합니다.
 
